@@ -29,6 +29,14 @@ keep my preferences safe so i don't face later discouragement.
 git seemed like the ideal method for acheiving my goal, because managing
 upstream changes is one of git's primary purposes.
 
+## Extras
+
+I ended up writing a lot of character backstory and quest journalling in the wiki:
+
+<https://github.com/montchr/c-games/wiki/Baldur's-Gate-3>
+
+This should probably be expanded to its own site or at least something that is not GitHub's forever-terrible implementation of Markdown wikis. (Why can we still not simply link the wiki to a subdirectory in the repo?)
+
 ## Oversights
 
 ### ReShade Presets
