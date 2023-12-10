@@ -5,9 +5,11 @@
 # Ignore everything.
 *
 
-# Include essential repo configuration files.
+# Include essential repo files.
 !/.gitignore
 !/.gitattributes
+!/LICENSE
+!/README.md
 
 # Include only these general fallback wildcard patterns amongst all other
 # patterns when no other wildcard is present.
