@@ -1,0 +1,156 @@
+{
+  "Order": [
+    {
+      "UUID": "1d6c4030-67b9-4b0a-b3ab-caf6dd73d1af",
+      "Name": "Party Limit Begone"
+    },
+    {
+      "UUID": "505c630c-79fa-49b6-9f21-29a5f2322c2d",
+      "Name": "TutorialChestSummoning"
+    },
+    {
+      "UUID": "3e158fb8-686e-4153-9430-e27f4b9fb7f8",
+      "Name": "BagsBagsBags"
+    },
+    {
+      "UUID": "12a1fc9f-e39d-43f2-ab49-25026f073e46",
+      "Name": "NoIntroPak"
+    },
+    {
+      "UUID": "c72d9f6a-a6e4-48b1-98c0-0ecdc7c31cf7",
+      "Name": "Mark Book As Read"
+    },
+    {
+      "UUID": "985a1b05-6f7d-4c57-89ca-e24003435ea7",
+      "Name": "LOR_allhotbar"
+    },
+    {
+      "UUID": "66666666-4444-4444-4444-666666668000",
+      "Name": "VladsGrimoire"
+    },
+    {
+      "UUID": "fb5f528d-4d48-4bf2-a668-2274d3cfba96",
+      "Name": "5eSpells"
+    },
+    {
+      "UUID": "b093bc44-ccf9-4eec-b5ec-e96a6f2940f9",
+      "Name": "SecretScrolls5eSpells"
+    },
+    {
+      "UUID": "cebd65f7-ee40-4153-8a9e-a6dfa587a30e",
+      "Name": "5eSpells Last Until Long Rest"
+    },
+    {
+      "UUID": "c729da22-9132-400f-a02a-5f6c13b99e85",
+      "Name": "MirrorImageImproved"
+    },
+    {
+      "UUID": "26c29727-92c0-4601-9bf2-043ca3e5b4d8",
+      "Name": "Warcaster"
+    },
+    {
+      "UUID": "66009818-25ce-4bc7-8bba-cafdc3f1a73e",
+      "Name": "CampAutoSaver"
+    },
+    {
+      "UUID": "0c4a55f3-1b4b-40dc-9631-748c49ceb650",
+      "Name": "CombatAutoSaver"
+    },
+    {
+      "UUID": "9837d6f1-e2e9-442d-bd9e-4d700d9defad",
+      "Name": "CombatAutoSaverOnEnd"
+    },
+    {
+      "UUID": "f35eee49-1ba8-4569-87f7-0ca9ce8116fc",
+      "Name": "ShortRestAutoSaver"
+    },
+    {
+      "UUID": "da0b99ca-4406-49c1-bef9-3a08621280a2",
+      "Name": "Tav's Hairpack"
+    },
+    {
+      "UUID": "bfad4cdb-0b02-435a-96c7-06c0f6533055",
+      "Name": "Tav's Hairpack - Icon Patch"
+    },
+    {
+      "UUID": "adbc4f0e-4e88-4fe4-9030-5021d533823b",
+      "Name": "Yves Hair Gallery"
+    },
+    {
+      "UUID": "e09a623a-8ba0-484f-b6ac-7f25ea91818a",
+      "Name": "HW_NeresHair"
+    },
+    {
+      "UUID": "9f421ddc-7fd7-4860-8252-7ca071802429",
+      "Name": "Neon's Assorted Hairs"
+    },
+    {
+      "UUID": "52ee7123-bbe3-4f8a-bd62-04327b406cab",
+      "Name": "more_dreads_n_curls_hairstyles"
+    },
+    {
+      "UUID": "8c611d4b-75d9-40eb-ad61-15f898396e12",
+      "Name": "Faces of Faerûn"
+    },
+    {
+      "UUID": "405c762d-8f07-4b91-a1ef-d58a9ec2a0a0",
+      "Name": "Toarie's New Character Creation Presets WIP"
+    },
+    {
+      "UUID": "2cd6c65a-71cc-4db6-bfb2-70116ccd2b94",
+      "Name": "Extra Gear"
+    },
+    {
+      "UUID": "53480625-d3e4-4cce-86c8-a8a793eb61d7",
+      "Name": "Aether's Black Dye"
+    },
+    {
+      "UUID": "255b2fda-2e05-4dad-b5e6-28587cea4854",
+      "Name": "AS_ExtraDyes_Bundle"
+    },
+    {
+      "UUID": "56039680-613c-4539-af58-22e3d5757e98",
+      "Name": "NV_FDyes"
+    },
+    {
+      "UUID": "20889478-26d7-4f43-b9d5-485e7d57dc96",
+      "Name": "FaerunColors"
+    },
+    {
+      "UUID": "3f43bac0-7d9f-45d7-a70d-2583cf4b4c59",
+      "Name": "HW_BoringPastels"
+    },
+    {
+      "UUID": "fdcba160-1c08-4938-8d70-02cd95f44f08",
+      "Name": "P4_Dyes"
+    },
+    {
+      "UUID": "1e9a70c4-11f6-43cd-8cb9-44926f62d44e",
+      "Name": "NPC and Outfit Inspired Dyes"
+    },
+    {
+      "UUID": "6dff611f-9f2e-45b1-b43e-06b62753cff9",
+      "Name": "HW_BoringDyes"
+    },
+    {
+      "UUID": "8c6e9d41-9e34-4bcf-8fd5-6e5ccfddcaa8",
+      "Name": "HW_NPC_Dyes"
+    },
+    {
+      "UUID": "1a1993f6-8e8f-41fc-b579-469420e48a70",
+      "Name": "a1_distinctive_dyes"
+    },
+    {
+      "UUID": "c74d7d52-890a-483f-b635-6b5fac3aab1d",
+      "Name": "SpellListCombiner"
+    },
+    {
+      "UUID": "0662253d-1cbf-479f-80c2-5878c6eb5a80",
+      "Name": "Loot Autoseller"
+    },
+    {
+      "UUID": "823cb235-Balz-47e2-8701-99752d59659d",
+      "Name": "Stackable Items"
+    }
+  ]
+}

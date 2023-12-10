@@ -1,0 +1,117 @@
+# The 'Alt' settings, like ExplorationAltZoomMax, are used in a special camera mode only used for controllers in some specific situations and I haven't figured out when that happens, but the setting should work
+# Camera settings that don't have a default value listed are already equal to default game values
+
+[ExplorationPitch]
+ExplorationUnlockPitch = true
+ExplorationUnlockedPitchMax = 85.0
+ExplorationUnlockedPitchMin = -85.0
+ExplorationKeepTacticalPitchLocked = false
+
+ExplorationOverrideLockedPitch = false
+# The following settings only have an effect when ExplorationOverrideLockedPitch is set to true and ExplorationUnlockPitch is set to false 
+# or (for tactical settings) ExplorationKeepTacticalPitchLocked is set to true
+# They are default game values
+ExplorationLockedPitchClose = 19.05
+ExplorationLockedPitchFar = 40.71
+ExplorationLockedTacticalPitchClose = 85.55
+ExplorationLockedTacticalPitchFar = 85.55
+ExplorationLockedAltPitchClose = 32.69
+ExplorationLockedAltPitchFar = 39.7
+
+[ExplorationZoom]
+ExplorationOverrideZoom = true
+# The following settings only have an effect when ExplorationOverrideZoom is set to true
+ExplorationZoomMax = 12.0
+ExplorationZoomMin = 0.5               # 3.5 default
+ExplorationTacticalZoomMax = 50.0
+ExplorationTacticalZoomMin = 10.0
+ExplorationAltZoomMax = 40.0
+ExplorationAltZoomMin = 10.0
+
+[ExplorationFOV]
+ExplorationOverrideFOV = false
+# The following settings only have an effect when ExplorationOverrideFOV is set to true
+ExplorationFOVClose = 55.0
+ExplorationFOVFar = 55.0
+ExplorationTacticalFOV = 25.0
+ExplorationAltFOVClose = 45.0
+ExplorationAltFOVFar = 45.0
+
+[ExplorationOffset]
+ExplorationOverrideOffset = false
+# The following settings only have an effect when ExplorationOverrideOffset is set to true
+ExplorationHorizontalOffsetMult = 0.0      # Horizontal offset, in vanilla it's 0 so it's not used, but seems to work when set to a different value
+ExplorationVerticalOffsetMult = 0.8        # Vertical offset of the camera from the floor level - the character height multiplied by this setting
+
+
+[CombatPitch]
+CombatUnlockPitch = true
+CombatUnlockedPitchMax = 85.0
+CombatUnlockedPitchMin = -85.0
+CombatKeepTacticalPitchLocked = false
+
+CombatOverrideLockedPitch = false
+# The following settings only have an effect when CombatOverrideLockedPitch is set to true and CombatUnlockPitch is set to false 
+# or (for tactical settings) CombatKeepTacticalPitchLocked is set to true
+# They are default game values
+CombatLockedPitchClose = 32.73
+CombatLockedPitchFar = 52.42
+CombatLockedTacticalPitchClose = 85.55
+CombatLockedTacticalPitchFar = 85.55
+CombatLockedAltPitchClose = 32.69
+CombatLockedAltPitchFar = 39.7
+
+[CombatZoom]
+CombatOverrideZoom = false
+# The following settings only have an effect when CombatOverrideZoom is set to true
+CombatZoomMax = 15.0
+CombatZoomMin = 4.0
+CombatTacticalZoomMax = 50.0
+CombatTacticalZoomMin = 10.0
+CombatAltZoomMax = 40.0
+CombatAltZoomMin = 10.0
+
+[CombatFOV]
+CombatOverrideFOV = false
+# The following settings only have an effect when CombatOverrideFOV is set to true
+CombatFOVClose = 55.0
+CombatFOVFar = 55.0
+CombatTacticalFOV = 25.0
+CombatAltFOVClose = 45.0
+CombatAltFOVFar = 45.0
+
+[CombatOffset]
+CombatOverrideOffset = false
+# The following settings only have an effect when CombatOverrideOffset is set to true
+CombatHorizontalOffsetMult = 0.0      # Horizontal offset, in vanilla it's 0 so it's not used, but seems to work when set to a different value
+CombatVerticalOffsetMult = 0.8        # Vertical offset of the camera from the floor level - the character height multiplied by this setting
+
+
+[General]
+UnlockedPitchInitialValue = 25.0
+UnlockedPitchClampSpeed = 5.0       # How quickly the pitch will return to the locked values when switching between a locked and unlocked mode
+UnlockedPitchLimitClipping = true   # Limit clipping with the floor by limiting the final zoom value to the floor level
+UnlockedPitchFloorOffset = 0.2      # Additional offset to the floor level used in the above setting
+ResetZoomOnZoneChange = false       # If enabled, will retain vanilla game behavior where the camera zoom is reset on zone change
+WatchForConfigChanges = true        # If enabled, the plugin will automatically reload the config in-game after saving this config file
+
+[Keyboard]
+KeyboardCameraRotationMult = 2.0
+
+[Mouse]
+MouseCameraRotationMult = 1.0
+MousePitchMult = 0.25
+MouseZoomMult = 0.5
+InvertMousePitch = false
+
+[Controller]
+ControllerCameraRotationMult = 2.0
+ControllerPitchMult = 0.5
+ControllerZoomMult = 0.5
+InvertControllerPitch = false
+SwapZoomAndPitch = false           # Enable to make right stick normally control the zoom, and only adjust the pitch when the modifier (left stick press) is held down
+UseRightStickPressForZoom = false  # Revert to the pre-2.0.0 behavior where you have to hold the right stick instead of the left stick pressed in to zoom
+
+[ControllerDeadzone]
+OverrideRightStickDeadzone = true
+NewDeadzone = 0.15

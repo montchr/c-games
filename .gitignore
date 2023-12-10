@@ -1,0 +1,66 @@
+## References:
+# <https://jasonstitt.com/gitignore-whitelisting-patterns>
+# <https://stackoverflow.com/questions/15288712/gitignore-whitelist-on-directory-and-its-contents>
+
+# Ignore everything.
+*
+
+# Include essential repo configuration files.
+!/.gitignore
+!/.gitattributes
+
+# Include only these general fallback wildcard patterns amongst all other
+# patterns when no other wildcard is present.
+!*.ini
+!*.json
+!*.toml
+
+# And descend into subdirectories.
+!*/
+
+# Ignore uninteresting or unfree data
+
+# ReShade shaders are installed and managed with the ReShade installer for each
+# game context.
+reshade-shaders
+
+# No need for these directories at present.
+/Backups
+/Mods/BG3/Backups
+
+### === MODS ===================================================================
+
+!/Mods
+/Mods/BG3/Staging
+
+### === STEAM ==================================================================
+
+!/Steam
+/Steam/*
+
+!/Steam/steamapps
+/Steam/steamapps/*
+
+# Explicitly enable each Steam application.
+!/Steam/steamapps/common
+/Steam/steamapps/common/*
+
+
+### === BALDURS GATE 3 =========================================================
+
+!/Steam/steamapps/common/Baldurs Gate 3
+/Steam/steamapps/common/Baldurs Gate 3/*
+
+!/Steam/steamapps/common/Baldurs Gate 3/bin
+
+/Mods/BG3/Tools/BG3MM/Tools
+
+
+
+### === OVERRIDES ==============================================================
+
+
+# Never ever ever.
+*.dll
+*.exe
+*.log

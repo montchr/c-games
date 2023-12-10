@@ -1,0 +1,17 @@
+{
+  "instance": "54d29eed-b9c3-46ec-85ef-bc7200dfa9c4",
+  "version": 1,
+  "deploymentMethod": "hardlink_activator",
+  "gameId": "baldursgate3",
+  "deploymentTime": 1701394126777,
+  "stagingPath": "C:\\Games\\Mods\\BG3\\Staging",
+  "targetPath": "c:\\games\\steam\\steamapps\\common\\Baldurs Gate 3\\bin",
+  "files": [
+    {
+      "relPath": "DWrite.dll",
+      "source": "Norbyte's Baldur's Gate 3 Script Extender-2172-3-6-1697979727",
+      "target": "",
+      "time": 1692117963000
+    }
+  ]
+}

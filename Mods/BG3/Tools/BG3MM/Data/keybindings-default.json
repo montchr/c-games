@@ -1,0 +1,170 @@
+{
+  "ImportMod": {
+    "Key": "O",
+    "Modifiers": "Control"
+  },
+  "NewOrder": {
+    "Key": "N",
+    "Modifiers": "Control"
+  },
+  "Save": {
+    "Key": "S",
+    "Modifiers": "Control"
+  },
+  "SaveAs": {
+    "Key": "S",
+    "Modifiers": "Alt, Control"
+  },
+  "ImportOrderFromSave": {
+    "Key": "I",
+    "Modifiers": "Control"
+  },
+  "ImportOrderFromSaveAsNew": {
+    "Key": "I",
+    "Modifiers": "Control, Shift"
+  },
+  "ImportOrderFromFile": {
+    "Key": "O",
+    "Modifiers": "Control, Shift"
+  },
+  "ImportOrderFromZipFile": {
+    "Key": "None",
+    "Modifiers": "None"
+  },
+  "ImportOrderFromSelectedGMCampaign": {
+    "Key": "None",
+    "Modifiers": "None"
+  },
+  "ExportOrderToGame": {
+    "Key": "E",
+    "Modifiers": "Control"
+  },
+  "ExportOrderToList": {
+    "Key": "E",
+    "Modifiers": "Control, Shift"
+  },
+  "ExportOrderToZip": {
+    "Key": "R",
+    "Modifiers": "Control"
+  },
+  "ExportOrderToArchiveAs": {
+    "Key": "R",
+    "Modifiers": "Control, Shift"
+  },
+  "Refresh": {
+    "Key": "F5",
+    "Modifiers": "None"
+  },
+  "RefreshModUpdates": {
+    "Key": "F6",
+    "Modifiers": "None"
+  },
+  "Confirm": {
+    "Key": "Return",
+    "Modifiers": "None"
+  },
+  "MoveFocusLeft": {
+    "Key": "Left",
+    "Modifiers": "None"
+  },
+  "MoveFocusRight": {
+    "Key": "Right",
+    "Modifiers": "None"
+  },
+  "SwapListFocus": {
+    "Key": "Tab",
+    "Modifiers": "None"
+  },
+  "MoveToTop": {
+    "Key": "PageUp",
+    "Modifiers": "Control"
+  },
+  "MoveToBottom": {
+    "Key": "Next",
+    "Modifiers": "Control"
+  },
+  "ToggleFilterFocus": {
+    "Key": "F",
+    "Modifiers": "Control"
+  },
+  "ToggleFileNameDisplay": {
+    "Key": "None",
+    "Modifiers": "None"
+  },
+  "DeleteSelectedMods": {
+    "Key": "Delete",
+    "Modifiers": "None"
+  },
+  "OpenPreferences": {
+    "Key": "P",
+    "Modifiers": "Control"
+  },
+  "OpenKeybindings": {
+    "Key": "K",
+    "Modifiers": "Control"
+  },
+  "ToggleViewTheme": {
+    "Key": "L",
+    "Modifiers": "Control"
+  },
+  "ToggleUpdatesView": {
+    "Key": "U",
+    "Modifiers": "Control"
+  },
+  "OpenModsFolder": {
+    "Key": "D1",
+    "Modifiers": "Control"
+  },
+  "OpenGameFolder": {
+    "Key": "D2",
+    "Modifiers": "Control"
+  },
+  "OpenWorkshopFolder": {
+    "Key": "D3",
+    "Modifiers": "Control"
+  },
+  "OpenLogsFolder": {
+    "Key": "D4",
+    "Modifiers": "Control"
+  },
+  "LaunchGame": {
+    "Key": "G",
+    "Modifiers": "Control, Shift"
+  },
+  "ExtractSelectedMods": {
+    "Key": "OemPeriod",
+    "Modifiers": "Control"
+  },
+  "ExtractSelectedAdventure": {
+    "Key": "None",
+    "Modifiers": "None"
+  },
+  "ToggleVersionGeneratorWindow": {
+    "Key": "G",
+    "Modifiers": "Control"
+  },
+  "DownloadScriptExtender": {
+    "Key": "T",
+    "Modifiers": "Alt, Control, Shift"
+  },
+  "SpeakActiveModOrder": {
+    "Key": "Home",
+    "Modifiers": "Control"
+  },
+  "CheckForUpdates": {
+    "Key": "F7",
+    "Modifiers": "None"
+  },
+  "OpenDonationLink": {
+    "Key": "F10",
+    "Modifiers": "None"
+  },
+  "OpenAboutWindow": {
+    "Key": "F1",
+    "Modifiers": "None"
+  },
+  "OpenRepositoryPage": {
+    "Key": "F11",
+    "Modifiers": "None"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "CreateConsole": true,
+  "EnableAchievements": true,
+  "EnableLogging": true,
+  "LogCompile": true,
+  "LogFailedCompile": true,
+  "LogRuntime": true
+}
